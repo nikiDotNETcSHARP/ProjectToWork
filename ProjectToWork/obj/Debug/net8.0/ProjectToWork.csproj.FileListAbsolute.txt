@@ -1,0 +1,4 @@
+C:\Users\Zver\source\repos\ProjectToWork\ProjectToWork\obj\Debug\net8.0\ProjectToWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\source\repos\ProjectToWork\ProjectToWork\obj\Debug\net8.0\ProjectToWork.AssemblyInfoInputs.cache
+C:\Users\Zver\source\repos\ProjectToWork\ProjectToWork\obj\Debug\net8.0\ProjectToWork.AssemblyInfo.cs
+C:\Users\Zver\source\repos\ProjectToWork\ProjectToWork\obj\Debug\net8.0\ProjectToWork.csproj.CoreCompileInputs.cache
